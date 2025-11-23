@@ -1,4 +1,4 @@
-# OS files
+# os files
 .DS_Store
 .DS_Store?
 ._*
@@ -7,21 +7,21 @@
 ehthumbs.db
 Thumbs.db
 
-# Editor files
+# editor files
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Logs
+# logs
 *.log
 npm-debug.log*
 
-# Environment variables
+# environment variables
 .env
 .env.local
 
-# Node modules (if you add any later)
+# node modules (if i add any later)
 node_modules/
 
